@@ -1,0 +1,5 @@
+Green - #008e5b
+Yellow - #fff0c8
+Headerline - Lobster
+Links - Cuprum
+Headers on page - Days
